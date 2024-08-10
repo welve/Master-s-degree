@@ -8,7 +8,7 @@
 
 #### Learning Journey
 
-1. **Foundational Knowledge**
+1. **Learning C++**
    - **Courses Taken:** Advanced Machine Learning, Computer Vision, Autonomous Systems
    - **Key Learnings:** Understanding of core principles in AI, neural networks, and sensor fusion.
 
