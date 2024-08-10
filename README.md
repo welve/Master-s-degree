@@ -1,8 +1,32 @@
 # [Your Name]
 
 ## 🎓 Education
-**Master's Degree**  
-Field of Study: AI for Autonomous Vehicles  
+
+### Master's Degree in AI for Autonomous Vehicles
+**Institution:** [Your University]  
+**Dates:** [Start Year] - [End Year]
+
+#### Learning Journey
+
+1. **Foundational Knowledge**
+   - **Courses Taken:** Advanced Machine Learning, Computer Vision, Autonomous Systems
+   - **Key Learnings:** Understanding of core principles in AI, neural networks, and sensor fusion.
+
+2. **Hands-On Projects**
+   - **Project 1:** Developed a [description of project] using [technologies/tools]. Gained practical experience in [specific skills or knowledge].
+   - **Project 2:** Worked on [description of project], focusing on [specific area]. Enhanced skills in [related skills].
+
+3. **Research & Development**
+   - **Thesis Title:** [Title of your thesis or main research project]
+   - **Summary:** Conducted research on [brief summary of research]. The work involved [techniques/methods used] and contributed to [specific outcomes or findings].
+
+4. **Specialized Training**
+   - **Certifications:** [Name of certification], [Institution or Platform], [Date]
+   - **Workshops:** Attended workshops on [topics], which provided hands-on experience and deeper insights into [specific area].
+
+5. **Practical Application**
+   - **Internships:** [Internship Position] at [Company/Organization], where I worked on [brief description of tasks or projects].
+   - **Collaborations:** Collaborated with [professor/research group/industry], contributing to [specific work or projects].
 
 ## 💼 Skills
 - **Programming Languages:** C++, Python
@@ -13,10 +37,6 @@ Field of Study: AI for Autonomous Vehicles
   - **Software:** SOLIDWORKS
 - **Operating Systems:** Linux, Ubuntu 18.04
 - **Version Control:** GitHub
-
-## 🛠️ Experience
-- **Career Focus:** AI for Autonomous Vehicles
-  - **Expertise:** Autonomous vehicle technologies, computer vision, machine learning
 
 ## 📈 Projects & Contributions
 - **[Project Name](Link to project)**: Brief description of what you did.
@@ -29,4 +49,4 @@ Field of Study: AI for Autonomous Vehicles
 
 ## 📚 Additional Resources
 - **Blog:** [Your Blog or Personal Website](https://yourwebsite.com)
-- **Publications:** [Link to any relevant publications](https://link-to-publications.c
+- **Publications:** [Link to any relevant publications](https://link-to-publications.com)
