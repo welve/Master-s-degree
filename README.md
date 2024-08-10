@@ -4,7 +4,7 @@
 
 ### Master's Degree in AI for Autonomous Vehicles
 **Institution:** [Hose University -> Korea University]  
-**Dates:** [Start Year] - [End Year]
+**Dates:** [2021] - [2023]
 
 ## 📚 Learning Journey
 
