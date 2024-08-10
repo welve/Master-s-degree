@@ -9,22 +9,23 @@
 ## 📚 Learning Journey
 
 1. **Learning C++**
+   https://github.com/welve/Master_s_degree/issues/1#issue-2459062712
    - **Courses Taken:** Advanced Machine Learning, Computer Vision, Autonomous Systems
    - **Key Learnings:** Understanding of core principles in AI, neural networks, and sensor fusion.
 
-2. **Hands-On Projects**
+3. **Hands-On Projects**
    - **Project 1:** Developed a [description of project] using [technologies/tools]. Gained practical experience in [specific skills or knowledge].
    - **Project 2:** Worked on [description of project], focusing on [specific area]. Enhanced skills in [related skills].
 
-3. **Research & Development**
+4. **Research & Development**
    - **Thesis Title:** [Title of your thesis or main research project]
    - **Summary:** Conducted research on [brief summary of research]. The work involved [techniques/methods used] and contributed to [specific outcomes or findings].
 
-4. **Specialized Training**
+5. **Specialized Training**
    - **Certifications:** [Name of certification], [Institution or Platform], [Date]
    - **Workshops:** Attended workshops on [topics], which provided hands-on experience and deeper insights into [specific area].
 
-5. **Practical Application**
+6. **Practical Application**
    - **Internships:** [Internship Position] at [Company/Organization], where I worked on [brief description of tasks or projects].
    - **Collaborations:** Collaborated with [professor/research group/industry], contributing to [specific work or projects].
 
