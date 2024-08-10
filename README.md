@@ -6,7 +6,7 @@
 **Institution:** [Your University]  
 **Dates:** [Start Year] - [End Year]
 
-## 📈  
+## 📈
 #### Learning Journey
 
 1. **Learning C++**
