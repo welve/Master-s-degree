@@ -6,7 +6,7 @@
 **Institution:** [Your University]  
 **Dates:** [Start Year] - [End Year]
 
-#### Learning Journey
+#### 📈Learning Journey
 
 1. **Learning C++**
    - **Courses Taken:** Advanced Machine Learning, Computer Vision, Autonomous Systems
