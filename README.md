@@ -3,7 +3,7 @@
 ## 🎓 Education
 
 ### Master's Degree in AI for Autonomous Vehicles
-**Institution:** [Your University]  
+**Institution:** [Hose University -> Korea University]  
 **Dates:** [Start Year] - [End Year]
 
 ## 📚 Learning Journey
