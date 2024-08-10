@@ -9,7 +9,7 @@
 ## 📚 Learning Journey
 
 1. **Learning C++**
-   https://github.com/welve/Master_s_degree/issues/1#issue-2459062712
+   ![c1](https://github.com/user-attachments/assets/d1d8c55f-cca7-46ea-b4de-7a70fd582f24)
    - **Courses Taken:** Advanced Machine Learning, Computer Vision, Autonomous Systems
    - **Key Learnings:** Understanding of core principles in AI, neural networks, and sensor fusion.
 
