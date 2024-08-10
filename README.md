@@ -9,6 +9,7 @@
 ## 📈
 #### Learning Journey
 ## 📚 #### Learning Journey
+<h2 style="display: inline;">📚</h2> <h4 style="display: inline;">Learning Journey</h4>
 1. **Learning C++**
    - **Courses Taken:** Advanced Machine Learning, Computer Vision, Autonomous Systems
    - **Key Learnings:** Understanding of core principles in AI, neural networks, and sensor fusion.
