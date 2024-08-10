@@ -10,6 +10,7 @@
 #### Learning Journey
 
 <h2 style="display: inline;">📚</h2> <h4 style="display: inline;">Learning Journey</h4>
+<span style="font-size: 24px;">📚</span> <span style="font-size: 16px;">Learning Journey</span>
 
 1. **Learning C++**
    - **Courses Taken:** Advanced Machine Learning, Computer Vision, Autonomous Systems
