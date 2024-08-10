@@ -9,23 +9,25 @@
 ## 📚 Learning Journey
 
 1. **Learning C++**
+
    ![c1](https://github.com/user-attachments/assets/d1d8c55f-cca7-46ea-b4de-7a70fd582f24)
+   
    - **Courses Taken:** Advanced Machine Learning, Computer Vision, Autonomous Systems
    - **Key Learnings:** Understanding of core principles in AI, neural networks, and sensor fusion.
 
-3. **Hands-On Projects**
+4. **Hands-On Projects**
    - **Project 1:** Developed a [description of project] using [technologies/tools]. Gained practical experience in [specific skills or knowledge].
    - **Project 2:** Worked on [description of project], focusing on [specific area]. Enhanced skills in [related skills].
 
-4. **Research & Development**
+5. **Research & Development**
    - **Thesis Title:** [Title of your thesis or main research project]
    - **Summary:** Conducted research on [brief summary of research]. The work involved [techniques/methods used] and contributed to [specific outcomes or findings].
 
-5. **Specialized Training**
+6. **Specialized Training**
    - **Certifications:** [Name of certification], [Institution or Platform], [Date]
    - **Workshops:** Attended workshops on [topics], which provided hands-on experience and deeper insights into [specific area].
 
-6. **Practical Application**
+7. **Practical Application**
    - **Internships:** [Internship Position] at [Company/Organization], where I worked on [brief description of tasks or projects].
    - **Collaborations:** Collaborated with [professor/research group/industry], contributing to [specific work or projects].
 
