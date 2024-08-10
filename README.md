@@ -8,8 +8,7 @@
 
 ## 📈
 #### Learning Journey
-## 📚 #### Learning Journey
-<h2 style="display: inline;">📚</h2> <h4 style="display: inline;">Learning Journey</h4>
+
 <h2 style="display: inline;">📚</h2> <h4 style="display: inline;">Learning Journey</h4>
 
 1. **Learning C++**
