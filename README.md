@@ -15,18 +15,20 @@
    - **Basic Algorithm:** Coding with C++.
    - **Intermidate:** Code using Data Structure.
 4. **Mechanical Engineering**
+   ![그림1](https://github.com/user-attachments/assets/08534485-229d-44bd-9390-6de619f92d2a)
+   
    - **Project 1:** Developed a [description of project] using [technologies/tools]. Gained practical experience in [specific skills or knowledge].
    - **Project 2:** Worked on [description of project], focusing on [specific area]. Enhanced skills in [related skills].
 
-5. **Research & Development**
+6. **Research & Development**
    - **Thesis Title:** [Title of your thesis or main research project]
    - **Summary:** Conducted research on [brief summary of research]. The work involved [techniques/methods used] and contributed to [specific outcomes or findings].
 
-6. **Specialized Training**
+7. **Specialized Training**
    - **Certifications:** [Name of certification], [Institution or Platform], [Date]
    - **Workshops:** Attended workshops on [topics], which provided hands-on experience and deeper insights into [specific area].
 
-7. **Practical Application**
+8. **Practical Application**
    - **Internships:** [Internship Position] at [Company/Organization], where I worked on [brief description of tasks or projects].
    - **Collaborations:** Collaborated with [professor/research group/industry], contributing to [specific work or projects].
 
