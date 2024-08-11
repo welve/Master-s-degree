@@ -26,7 +26,7 @@
 
    - **Summary:** ROS_Custom_Package -> Mobile Robot + Intel(Realsense) Camera + Joystick.
 
-7. **Specialized Training**
+7. **Yolov4 on Local machine**
    - **Certifications:** [Name of certification], [Institution or Platform], [Date]
    - **Workshops:** Attended workshops on [topics], which provided hands-on experience and deeper insights into [specific area].
 
