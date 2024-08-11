@@ -27,8 +27,7 @@
    
    ![c3](https://github.com/user-attachments/assets/5e85b78f-8f83-4cc0-ba11-f3c2e5536f80)
 
-   - **Thesis Title:** [Title of your thesis or main research project]
-   - **Summary:** Conducted research on [brief summary of research]. The work involved [techniques/methods used] and contributed to [specific outcomes or findings].
+   - **Summary:** Mobile Robot + Intel(Realsense) Camera + Joystick.
 
 7. **Specialized Training**
    - **Certifications:** [Name of certification], [Institution or Platform], [Date]
