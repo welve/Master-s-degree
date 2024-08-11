@@ -14,7 +14,7 @@
    
    - **Basic Algorithm:** Coding with C++.
    - **Intermidate:** Code using Data Structure.
-4. **Mechanical engineering**
+4. **Mechanical Engineering**
    - **Project 1:** Developed a [description of project] using [technologies/tools]. Gained practical experience in [specific skills or knowledge].
    - **Project 2:** Worked on [description of project], focusing on [specific area]. Enhanced skills in [related skills].
 
