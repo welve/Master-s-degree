@@ -24,6 +24,8 @@
 3. **ROS (ROBOT OPERATING SYSTEM)**
    
    [ROS.webm](https://github.com/user-attachments/assets/55c81d8f-db3c-427a-81a6-8244fae0fb53)
+   
+   ![c3](https://github.com/user-attachments/assets/5e85b78f-8f83-4cc0-ba11-f3c2e5536f80)
 
    - **Thesis Title:** [Title of your thesis or main research project]
    - **Summary:** Conducted research on [brief summary of research]. The work involved [techniques/methods used] and contributed to [specific outcomes or findings].
