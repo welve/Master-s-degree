@@ -24,7 +24,7 @@
    
    ![c3](https://github.com/user-attachments/assets/5e85b78f-8f83-4cc0-ba11-f3c2e5536f80)
 
-   - **Summary:** Mobile Robot + Intel(Realsense) Camera + Joystick.
+   - **Summary:** ROS_Custom_Package -> Mobile Robot + Intel(Realsense) Camera + Joystick.
 
 7. **Specialized Training**
    - **Certifications:** [Name of certification], [Institution or Platform], [Date]
