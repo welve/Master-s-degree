@@ -21,7 +21,7 @@
    - **Project 1:** Developed a [description of project] using [technologies/tools]. Gained practical experience in [specific skills or knowledge].
    - **Project 2:** Worked on [description of project], focusing on [specific area]. Enhanced skills in [related skills].
 
-6. **Research & Development**
+3. **ROS (ROBOT OPERATING SYSTEM)**
    - **Thesis Title:** [Title of your thesis or main research project]
    - **Summary:** Conducted research on [brief summary of research]. The work involved [techniques/methods used] and contributed to [specific outcomes or findings].
 
