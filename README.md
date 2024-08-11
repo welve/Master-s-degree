@@ -18,9 +18,6 @@
    
    ![c2](https://github.com/user-attachments/assets/33d39a55-35b2-47ac-805a-a91150e107ec)
    
-   - **Project 1:** Developed a [description of project] using [technologies/tools]. Gained practical experience in [specific skills or knowledge].
-   - **Project 2:** Worked on [description of project], focusing on [specific area]. Enhanced skills in [related skills].
-
 3. **ROS (ROBOT OPERATING SYSTEM)**
    
    [ROS.webm](https://github.com/user-attachments/assets/55c81d8f-db3c-427a-81a6-8244fae0fb53)
