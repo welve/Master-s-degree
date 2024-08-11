@@ -22,6 +22,9 @@
    - **Project 2:** Worked on [description of project], focusing on [specific area]. Enhanced skills in [related skills].
 
 3. **ROS (ROBOT OPERATING SYSTEM)**
+   
+   [미디어1.webm](https://github.com/user-attachments/assets/55c81d8f-db3c-427a-81a6-8244fae0fb53)
+
    - **Thesis Title:** [Title of your thesis or main research project]
    - **Summary:** Conducted research on [brief summary of research]. The work involved [techniques/methods used] and contributed to [specific outcomes or findings].
 
