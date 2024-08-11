@@ -15,7 +15,7 @@
    - **Basic Algorithm:** Coding with C++.
    - **Intermidate:** Code using Data Structure.
 4. **Mechanical Engineering**
-   ![그림1](https://github.com/user-attachments/assets/08534485-229d-44bd-9390-6de619f92d2a)
+   ![c2](https://github.com/user-attachments/assets/33d39a55-35b2-47ac-805a-a91150e107ec)
    
    - **Project 1:** Developed a [description of project] using [technologies/tools]. Gained practical experience in [specific skills or knowledge].
    - **Project 2:** Worked on [description of project], focusing on [specific area]. Enhanced skills in [related skills].
