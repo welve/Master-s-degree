@@ -12,8 +12,8 @@
 
    ![c1](https://github.com/user-attachments/assets/d1d8c55f-cca7-46ea-b4de-7a70fd582f24)
    
-   - **Basic Algorithm:** Coding with c++.
-   - **Intermidate:** Data Structure.
+   - **Basic Algorithm:** Coding with C++.
+   - **Intermidate:** Code using Data Structure.
 4. **Hands-On Projects**
    - **Project 1:** Developed a [description of project] using [technologies/tools]. Gained practical experience in [specific skills or knowledge].
    - **Project 2:** Worked on [description of project], focusing on [specific area]. Enhanced skills in [related skills].
