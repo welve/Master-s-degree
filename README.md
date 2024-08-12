@@ -28,7 +28,8 @@
 
 7. **YOLOv4 on Local machine**
 
-   ![c4](https://github.com/user-attachments/assets/c3f655cb-6d9e-4323-8c0c-4a0835d77fe3)
+   ![c4](https://github.com/user-attachments/assets/049a96d6-4064-4921-a2d0-a5fc995fe9b9)
+
 
    - **Certifications:** [Name of certification], [Institution or Platform], [Date]
    - **Workshops:** Attended workshops on [topics], which provided hands-on experience and deeper insights into [specific area].
