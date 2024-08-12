@@ -27,10 +27,13 @@
    - **Summary:** ROS_Custom_Package -> Mobile Robot + Intel(Realsense) Camera + Joystick.
 
 7. **YOLOv4 on Local machine**
+
+   ![c4](https://github.com/user-attachments/assets/c3f655cb-6d9e-4323-8c0c-4a0835d77fe3)
+
    - **Certifications:** [Name of certification], [Institution or Platform], [Date]
    - **Workshops:** Attended workshops on [topics], which provided hands-on experience and deeper insights into [specific area].
 
-8. **Practical Application**
+9. **Practical Application**
    - **Internships:** [Internship Position] at [Company/Organization], where I worked on [brief description of tasks or projects].
    - **Collaborations:** Collaborated with [professor/research group/industry], contributing to [specific work or projects].
 
