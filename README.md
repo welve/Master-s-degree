@@ -32,8 +32,7 @@
 
    https://github.com/user-attachments/assets/4ca2c02f-8986-4d33-bd6c-997787a58707
 
-   - **Certifications:** [Name of certification], [Institution or Platform], [Date]
-   - **Workshops:** Attended workshops on [topics], which provided hands-on experience and deeper insights into [specific area].
+   - **Compatability:** Ubuntu 18.04, Cuda 10.1, cudnn 7.6.0, OpenCV 3.2.0
 
 9. **Practical Application**
    - **Internships:** [Internship Position] at [Company/Organization], where I worked on [brief description of tasks or projects].
