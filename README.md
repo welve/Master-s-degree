@@ -30,7 +30,7 @@
 
    ![c4](https://github.com/user-attachments/assets/049a96d6-4064-4921-a2d0-a5fc995fe9b9)
 
-
+   https://github.com/user-attachments/assets/6a5704c5-d8f3-4799-ad13-c8364c82e0e3
 
    - **Certifications:** [Name of certification], [Institution or Platform], [Date]
    - **Workshops:** Attended workshops on [topics], which provided hands-on experience and deeper insights into [specific area].
