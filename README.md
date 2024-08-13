@@ -26,7 +26,7 @@
 
    - **Summary:** ROS_Custom_Package -> Mobile Robot + Intel(Realsense) Camera + Joystick.
 
-7. **YOLOv4 on Local machine**
+4. **YOLOv4 on Local machine**
 
    ![c4](https://github.com/user-attachments/assets/049a96d6-4064-4921-a2d0-a5fc995fe9b9)
 
@@ -34,7 +34,7 @@
 
    - **Compatability:** Ubuntu 18.04, Cuda 10.1, cudnn 7.6.0, OpenCV 3.2.0
 
-9. **Practical Application**
+5. **Camera-based Line detection**
    - **Internships:** [Internship Position] at [Company/Organization], where I worked on [brief description of tasks or projects].
    - **Collaborations:** Collaborated with [professor/research group/industry], contributing to [specific work or projects].
 
