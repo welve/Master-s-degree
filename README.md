@@ -35,6 +35,9 @@
    - **Compatability:** Ubuntu 18.04, Cuda 10.1, cudnn 7.6.0, OpenCV 3.2.0
 
 5. **Camera-based Line detection**
+   
+   ![c5](https://github.com/user-attachments/assets/de3db16e-b81d-4efc-949e-e12ba31147f4)
+
    - **Internships:** [Internship Position] at [Company/Organization], where I worked on [brief description of tasks or projects].
    - **Collaborations:** Collaborated with [professor/research group/industry], contributing to [specific work or projects].
 
