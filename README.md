@@ -38,19 +38,3 @@
    
    
 
-   - **Internships:** [Internship Position] at [Company/Organization], where I worked on [brief description of tasks or projects].
-   - **Collaborations:** Collaborated with [professor/research group/industry], contributing to [specific work or projects].
-
-## 💼 Skills
-- **Programming Languages:** C++, Python
-- **Tools & Technologies:** 
-  - **Development:** Visual Studio Code, Anaconda
-  - **Frameworks:** TensorFlow, Keras
-  - **Libraries:** OpenCV, YOLOv4
-  - **Software:** SOLIDWORKS
-- **Operating Systems:** Linux, Ubuntu 18.04
-- **Version Control:** GitHub
-
-## 📈 Projects & Contributions
-- **[Project Name](Link to project)**: Brief description of what you did.
-- **[Project Name](Link to project)**: Brief description of what you did.
