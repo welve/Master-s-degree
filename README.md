@@ -37,5 +37,4 @@
 
    ![c5](https://github.com/user-attachments/assets/ee5d8a32-b8db-4713-9f7e-5375fed4388f)
    
-   - **Basic Algorithm:** Coding with C++.
-   - **Intermidate:** Code using Data Structure.
+   ![c6](https://github.com/user-attachments/assets/a4b78358-40b7-478f-8d39-60aa6ab5b452)
