@@ -32,3 +32,10 @@
    https://github.com/user-attachments/assets/4ca2c02f-8986-4d33-bd6c-997787a58707
 
    - **Compatability:** Ubuntu 18.04, Cuda 10.1, cudnn 7.6.0, OpenCV 3.2.0
+     
+5. **Camera-based Line detection**
+
+   ![c5](https://github.com/user-attachments/assets/ee5d8a32-b8db-4713-9f7e-5375fed4388f)
+   
+   - **Basic Algorithm:** Coding with C++.
+   - **Intermidate:** Code using Data Structure.
