@@ -50,6 +50,6 @@
 
    https://github.com/user-attachments/assets/2df8b92e-3f87-449c-a71e-7c661c704d0b
    
-2. **Running a depth camera on ths ROS2 system**
+2. **Running a depth camera on the ROS2 system**
 
    https://github.com/user-attachments/assets/d1f5257f-5498-4d21-a712-5133c3dc63aa
