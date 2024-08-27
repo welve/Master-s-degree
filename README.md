@@ -54,7 +54,7 @@
 
    https://github.com/user-attachments/assets/d1f5257f-5498-4d21-a712-5133c3dc63aa
 
-3. **Real-time hand detection only algorithm** 
+3. **Real-time hand detection (only algorithm)** 
 
    https://github.com/user-attachments/assets/a0da29f7-d410-411b-9e46-f84b9f51265f
 
